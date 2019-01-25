@@ -6,5 +6,5 @@ TuDiáspora es un centro de recursos por estado para miembros de la diáspora //
 TuDiáspora es un proyecto de puertorriqueños creado para puertorriqueños. 
 	 
 ### Accesible para todos en un solo lugar web ###
-[Tu Diáspora](https://victor-nazario.github.io/tudiaspora/)
+[TuDiáspora](https://victor-nazario.github.io/tudiaspora/)
 
