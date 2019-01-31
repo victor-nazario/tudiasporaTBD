@@ -8,3 +8,6 @@ TuDiáspora es un proyecto de puertorriqueños creado para puertorriqueños.
 ### Accesible para todos en un solo lugar web ###
 [TuDiáspora](https://victor-nazario.github.io/tudiaspora/)
 
+##### Licensed under the MIT License, made with the help of Bootstrap  #####
+
+
