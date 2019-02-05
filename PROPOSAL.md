@@ -14,10 +14,9 @@ Ser un centro comprensivo de recursos listado por estado en el cual la diáspora
 ### Meta de TuDiáspora ###
 Servir como recurso extremadamente comprensivo, en el cual un puertorriqueño en necesidad pueda confiar su gestión de contactarse con organizaciones de apoyo en los Estados Unidos. 
 
-### Qué se espera obtener de TuDiáspora ###
-Establecerse como el único lugar necesario para iniciar el contacto entre puertorriqueños y organizaciones en los Estados Unidos.
-
-### Requerimientos para TuDiáspora ###
-Los requerimientos esenciales para llevar a cabo éste website son mínimos, ya que no requiere, ni llevará a cabo el almacenamiento de usuarios o cualquier tipo de data sobre su clientela. Es decir, que solamente será un directorio virtual dónde se podrá acceder información sobre organizaciones proveyendo servicios a emigrantes puertorriqueños hacia los Estados Unidos. A razón de ésto, sólo será necesario el trabajo necesario para hacer la implementación, la información de contacto, etc. para crear el directorio y el webhost para "alocar" el website junto a todos los archivos necesarios para su funcionamiento óptimo. 
-
+### Contenido de TuDiáspora ###
+*Página principal (index-html) - Esta página va a contener un mapa interactivo de los Estados Unidos donde los usarios podrán encontrar un directorio virtual de organizaciones. 
+*Sobre nosotros (about.html) - En esta página se podrá encontrar información sobre la misión de TuDiáspora.
+*Contacto (contact.html) - En esta página habrá un form de contacto para los usuarios contactar el equipo de TuDiáspora. 
+*Contenido/directorio por estado (example: florida.html) - Luego de un usuario selecionar o hacer click sobre alguno de los estados del mapa interactivo, dicho usuario será dirigido a una página titulada con el nombre del estado seleccionado donde podrá encontrar un directorio virtual de entidades proveyendo ayuda a migrantes. 
 
