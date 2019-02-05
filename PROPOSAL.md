@@ -1,4 +1,4 @@
-Propuesto por Víctor Nazario Morales <br>
+Propuesto por Víctor A. Nazario Morales <br>
 843-15-4984 <br>
 ADMI3008-026
 
