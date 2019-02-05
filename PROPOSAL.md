@@ -1,3 +1,7 @@
+##### Propuesto por Víctor Nazario Morales  ######
+843-15-4984 <br>
+ADMI3008-026
+
 # Propuesta: TuDiáspora #
 
 ### ¿Para quién será diseñado TuDiáspora?  ###
@@ -16,7 +20,4 @@ Establecerse como el único lugar necesario para iniciar el contacto entre puert
 ### Requerimientos para TuDiáspora ###
 Los requerimientos esenciales para llevar a cabo éste website son mínimos, ya que no requiere, ni llevará a cabo el almacenamiento de usuarios o cualquier tipo de data sobre su clientela. Es decir, que solamente será un directorio virtual dónde se podrá acceder información sobre organizaciones proveyendo servicios a emigrantes puertorriqueños hacia los Estados Unidos. A razón de ésto, sólo será necesario el trabajo necesario para hacer la implementación, la información de contacto, etc. para crear el directorio, y el webhost para "alocar" el website junto a todos los archivos necesarios para su funcionamiento óptimo. 
 
-##### Propuesto por Víctor Nazario Morales  ######
-843-15-4984 <br>
-ADMI3008-026
 
